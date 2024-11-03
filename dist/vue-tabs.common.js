@@ -1,6 +1,6 @@
 /*!
  * vue-nav-tabs v0.5.7
- * (c) 2020-present cristij <joracristi@gmail.com>
+ * (c) 2024-present cristij <joracristi@gmail.com>
  * Released under the MIT License.
  */
 'use strict';
